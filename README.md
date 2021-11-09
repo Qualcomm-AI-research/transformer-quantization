@@ -2,7 +2,7 @@
 This repository contains the implementation and experiments for the paper presented in
 
 **Yelysei Bondarenko<sup>1</sup>, Markus Nagel<sup>1</sup>, Tijmen Blankevoort<sup>1</sup>, 
-"Understanding and Overcoming the Challenges of Efficient Transformer Quantization", EMNLP 2021.** [[ArXiv]](https://arxiv.org/abs/2109.12948)
+"Understanding and Overcoming the Challenges of Efficient Transformer Quantization", EMNLP 2021.** [[ACL Anthology]](https://aclanthology.org/2021.emnlp-main.627/) [[ArXiv]](https://arxiv.org/abs/2109.12948)
 
 <sup>1</sup> Qualcomm AI Research (Qualcomm AI Research is an initiative of Qualcomm Technologies, Inc.)
 
